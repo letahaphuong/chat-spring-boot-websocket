@@ -11,7 +11,7 @@ Provide step-by-step instructions on how to install and set up your project loca
 git clone https://github.com/letahaphuong/chat-spring-boot-websocket.git
 
 # Change into the project directory
-cd websocket
+cd your_project
 
 # Build the project
 ./mvnw clean install
