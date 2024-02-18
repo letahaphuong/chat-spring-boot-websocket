@@ -13,11 +13,12 @@ git clone https://github.com/letahaphuong/chat-spring-boot-websocket.git
 # Change into the project directory
 cd your_project
 
+# Run docker-compose
+docker-compose up -d
+
 # Build the project
 ./mvnw clean install
 
-# Run docker-compose
-docker-compose up -d
 ```
 
 ---
